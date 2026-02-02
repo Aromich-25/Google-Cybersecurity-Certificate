@@ -1,0 +1,17 @@
+# Reflection
+
+## What I learned
+This audit helped me practice how to evaluate whether security controls and compliance practices are currently in place, then connect missing controls to real risk. It also reinforced the difference between a control existing versus being mature or effective.
+
+## What I would do in a real audit
+If this were a real organization, I would:
+- validate controls through testing where possible (encryption verification, backup restore testing)
+- Review identity/access management practices and account lifecycle procedures
+- interview system owners and stakeholders to confirm actual workflows
+- build a prioritized remediation plan with owners and timelines
+
+## Career relevance
+This project aligns with entry-level responsibilities in SOC and GRC roles:
+- identifying control gaps
+- documenting risk and compliance impacts
+- recommending controls to improve security posture and business continuity
