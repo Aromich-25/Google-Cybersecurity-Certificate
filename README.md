@@ -1,5 +1,3 @@
-> Start here: `botium-toys-internal-security-audit/README.md`
-
 # Google Cybersecurity Certificate – Portfolio Projects
 
 This repository contains selected portfolio artifacts completed as part of the
@@ -9,33 +7,47 @@ Each project demonstrates hands-on application of core cybersecurity concepts,
 including security controls, risk assessment, compliance awareness, and
 professional security documentation.
 
-> **Start here:** `botium-toys-internal-security-audit/README.md`
+
+
+## 🚀 Quick Navigation (Start Here)
+
+- ▶️ **Project Overview:**  
+  [Botium Toys – Internal Security Audit](botium-toys-internal-security-audit/README.md)
+
+- 📄 **Audit Writeups & Recommendations:**  
+  [Writeup Folder](botium-toys-internal-security-audit/writeup/)
+
+- ✅ **Completed Controls & Compliance Checklist (PDF):**  
+  [View Completed Checklist](botium-toys-internal-security-audit/evidence/completed-work/completed-controls-compliance-checklist.pdf)
+
+- 📚 **Source Documents Used (Audit Inputs):**  
+  [Source Documents](botium-toys-internal-security-audit/evidence/source-documents/)
+
+- 🧠 **Reflection & Lessons Learned:**  
+  [Reflection Folder](botium-toys-internal-security-audit/reflection/)
 
 
 
-## Projects
+## 🛡️ Project: Botium Toys – Internal Security Audit (Controls & Compliance)
 
-### 🛡️ Botium Toys – Internal Security Audit (Controls & Compliance)
+This project documents an internal security audit for a fictional organization
+(Botium Toys). The audit focuses on evaluating existing security controls,
+identifying compliance gaps, and providing risk-based recommendations.
 
-This project documents an internal security audit for a fictional organization.
-The audit focuses on evaluating existing controls, identifying compliance gaps,
-and providing risk-based recommendations.
-
-**What was done:**
+### What was done
 - Reviewed audit scope, goals, and a risk assessment
-- Completed a controls assessment and compliance checklist
+- Completed a controls assessment and compliance checklist  
   (PCI DSS, GDPR, SOC)
-- Wrote risk-based recommendations to improve security posture
-  and business continuity
+- Identified control gaps and compliance risks
+- Wrote prioritized, risk-based security recommendations
 
 
+## 📁 Repository Structure (How to Navigate)
 
-## Repository Structure (How to Navigate)
+This repository is organized to make it easy for reviewers and employers to
+quickly find relevant materials.
 
-This repository is organized to clearly separate project deliverables,
-reference materials, and reflections.
-
-### 📁 botium-toys-internal-security-audit/
+### `botium-toys-internal-security-audit/`
 Contains the complete internal security audit project.
 
 - **README.md**  
@@ -53,15 +65,15 @@ Contains the complete internal security audit project.
 
 - **evidence/**  
   Supporting materials used during the audit.
-  - **source-documents/** – Scenario and reference materials used as inputs  
+  - **source-documents/** – Scenario and reference materials used as audit inputs  
   - **completed-work/** – Final completed controls & compliance checklist (PDF)
 
+- **screenshots/**  
+  Optional screenshots included as supporting evidence.
 
 
-
-## About This Repository
+## ℹ️ About This Repository
 
 This repository is intended to showcase **portfolio-ready cybersecurity work**.
-It focuses on clear documentation, risk-based thinking, and professional
+It emphasizes clear documentation, risk-based thinking, and professional
 communication rather than tool output alone.
-
