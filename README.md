@@ -7,7 +7,7 @@ Each project demonstrates hands-on application of core cybersecurity concepts,
 including security controls, risk assessment, compliance awareness, and
 professional security documentation.
 
-
+---
 
 ## 🚀 Quick Navigation (Start Here)
 
@@ -18,7 +18,7 @@ professional security documentation.
   [Writeup Folder](botium-toys-internal-security-audit/writeup/)
 
 - ✅ **Completed Controls & Compliance Checklist (PDF):**  
-  [View Completed Checklist](botium-toys-internal-security-audit/evidence/completed-work/completed-controls-compliance-checklist.pdf)
+  [View Completed Checklist](botium-toys-internal-security-audit/evidence/completed-work/compliance_checklist.pdf)
 
 - 📚 **Source Documents Used (Audit Inputs):**  
   [Source Documents](botium-toys-internal-security-audit/evidence/source-documents/)
@@ -26,7 +26,7 @@ professional security documentation.
 - 🧠 **Reflection & Lessons Learned:**  
   [Reflection Folder](botium-toys-internal-security-audit/reflection/)
 
-
+---
 
 ## 🛡️ Project: Botium Toys – Internal Security Audit (Controls & Compliance)
 
@@ -41,6 +41,7 @@ identifying compliance gaps, and providing risk-based recommendations.
 - Identified control gaps and compliance risks
 - Wrote prioritized, risk-based security recommendations
 
+---
 
 ## 📁 Repository Structure (How to Navigate)
 
@@ -65,15 +66,4 @@ Contains the complete internal security audit project.
 
 - **evidence/**  
   Supporting materials used during the audit.
-  - **source-documents/** – Scenario and reference materials used as audit inputs  
-  - **completed-work/** – Final completed controls & compliance checklist (PDF)
-
-- **screenshots/**  
-  Optional screenshots included as supporting evidence.
-
-
-## ℹ️ About This Repository
-
-This repository is intended to showcase **portfolio-ready cybersecurity work**.
-It emphasizes clear documentation, risk-based thinking, and professional
-communication rather than tool output alone.
+  - **source-documents/** – Scenario and reference materials used as a
